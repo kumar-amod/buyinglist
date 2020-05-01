@@ -3,9 +3,6 @@ package com.company;
 public class Main {
 
     public static void main(String[] args) {
-        int count = 1;
-        do{
-            System.out.println("count: "+count);
-        }
+        System.out.println("Hello Kriti :)");
     }
 }
